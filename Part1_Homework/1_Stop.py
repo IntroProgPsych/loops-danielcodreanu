@@ -22,3 +22,8 @@
 #   - Stop only when total >= target
 
 # Write your code here:
+
+truenumber = int(input())
+
+if number = truenumber:
+    
